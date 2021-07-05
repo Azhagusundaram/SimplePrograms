@@ -11,7 +11,7 @@ Output: AB
 Input: 1000
 Output: ALL
  */
-package Smallcodes;
+package com.simplecodes;
 
 import java.util.Scanner;
 

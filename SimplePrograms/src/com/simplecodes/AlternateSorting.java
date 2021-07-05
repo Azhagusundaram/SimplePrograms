@@ -4,7 +4,7 @@ element is first maximum and second element is first minimum.
  Eg.) Input : {1, 2, 3, 4, 5, 6, 7}
  Output : {7, 1, 6, 2, 5, 3, 4}
 */
-package Smallcodes;
+package com.simplecodes;
 import java.util.Arrays;
 import java.util.Scanner;
 public class AlternateSorting {

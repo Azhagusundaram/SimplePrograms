@@ -5,7 +5,7 @@ Eg 1: Input: a1b10
 Eg: 2: Input: b3c6d15
  Output: bbbccccccddddddddddddddd
  */
-package Smallcodes;
+package com.simplecodes;
 
 import java.util.Scanner;
 

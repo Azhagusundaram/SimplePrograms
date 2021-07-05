@@ -8,7 +8,7 @@ P     M
  R   A
 P     M
 */
-package Smallcodes;
+package com.simplecodes;
 
 public class Pattern1 {
 

@@ -7,7 +7,7 @@
  Input : ((a+b)
  Output : Invalid
  */
-package Smallcodes;
+package com.simplecodes;
 
 import java.util.Scanner;
 

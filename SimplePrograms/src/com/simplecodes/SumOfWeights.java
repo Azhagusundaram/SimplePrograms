@@ -8,7 +8,7 @@ And sort the numbers based on the weight and print it as follows
 <10,its_weight>,<36,its weight><89,its weight>
 Should display the numbers based on increasing order.
 */
-package Smallcodes;
+package com.simplecodes;
 import java.util.Scanner;
 public class SumOfWeights {
 	public static void main(String[] args) {

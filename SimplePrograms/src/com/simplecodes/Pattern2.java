@@ -24,7 +24,7 @@ X 0 X X 0 X
 X 0 0 0 0 X
 X X X X X X
  */
-package Smallcodes;
+package com.simplecodes;
 
 import java.util.Scanner;
 

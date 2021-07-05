@@ -13,7 +13,7 @@ Number of elements in set 2: 3
 Elements are: 1,2,3
 Output: 7,2,3,4,5,3,1,2,8,5,1
  */
-package Smallcodes;
+package com.simplecodes;
 
 import java.util.Scanner;
 

@@ -14,7 +14,7 @@ Sample Input 2
 Sample Output 2
 1234 1243 1324 1342 1432 1423 2134 2143 2314 2341
  */
-package Smallcodes;
+package com.simplecodes;
 
 import java.util.Scanner;
 

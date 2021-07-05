@@ -6,7 +6,7 @@ Given array : 8, 2, 3, 12, 16
 Output:
 12, 16, 8, 2, 3
  */
-package Smallcodes;
+package com.simplecodes;
 
 import java.util.Scanner;
 

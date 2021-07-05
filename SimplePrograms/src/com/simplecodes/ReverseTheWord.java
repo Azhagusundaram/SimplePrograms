@@ -1,4 +1,4 @@
-package Smallcodes;
+package com.simplecodes;
 public class ReverseTheWord {
 		public static void reversing(String str)
 		{

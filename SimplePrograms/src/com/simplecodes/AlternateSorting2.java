@@ -6,7 +6,7 @@ Eg 1: Input: 13,2 4,15,12,10,5
 Eg 2: Input: 1,2,3,4,5,6,7,8,9
  Output: 9,2,7,4,5,6,3,8,1
  */
-package Smallcodes;
+package com.simplecodes;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -12,7 +12,7 @@ Output:
 Remaining petrol in car is 5 liters
 
  */
-package Smallcodes;
+package com.simplecodes;
 
 import java.util.Scanner;
 

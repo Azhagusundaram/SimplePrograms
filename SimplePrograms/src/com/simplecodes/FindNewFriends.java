@@ -7,7 +7,7 @@ Mughil 3 praveen Naveen Ramesh
 Output:
 Raj guna kumar Kishore praveen Naveen Ramesh
  */
-package Smallcodes;
+package com.simplecodes;
 import java.util.HashSet;
 import java.util.Scanner;
 

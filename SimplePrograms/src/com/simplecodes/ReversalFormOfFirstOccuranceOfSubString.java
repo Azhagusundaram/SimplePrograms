@@ -13,7 +13,7 @@ st
 Sample Output 1
 this is a sentence test
  */
-package Smallcodes;
+package com.simplecodes;
 
 import java.util.Scanner;
 

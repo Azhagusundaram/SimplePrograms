@@ -1,4 +1,4 @@
-package Smallcodes;
+package com.simplecodes;
 
 import java.util.Scanner;
 

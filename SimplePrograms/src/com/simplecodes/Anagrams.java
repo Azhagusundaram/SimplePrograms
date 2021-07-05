@@ -22,7 +22,7 @@ tar rat banana atr nanaba
 Sample Output 1rat atr tar
 nanaba banana
  */
-package Smallcodes;
+package com.simplecodes;
 
 import java.util.ArrayList;
 import java.util.LinkedHashSet;
